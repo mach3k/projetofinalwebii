@@ -1,9 +1,9 @@
 ## Instituto Federal Catarinense
 
-Curso Superior de Bacharelado em Sistemas de Informação
-Disciplina de Desenvolvimento Web II
-Professor: Fabio Bif Goularte
-Estudante: Marcelo Ramos Machado
+<p>Curso Superior de Bacharelado em Sistemas de Informação</p>
+<p>Disciplina de Desenvolvimento Web II</p>
+<p>Professor: Fabio Bif Goularte</p>
+<p>Estudante: Marcelo Ramos Machado</p>
 
 ## Projeto Final
 
@@ -22,7 +22,7 @@ Para executar:
 - Executar o comando: npm install
 - Executar o comando: "php artisan migrate --seed"
 - Acessar com o navegador a pasta do projeto (http://localhost/.../meuprojeto/public)
-- Crie seu usuário ou entre com o usuário <mailto:mr.machado@gmail.com> e senha "123"
+- Crie seu usuário ou entre com o usuário <a href="mailto:mr.machado@gmail.com?Subject=Projeto%20WebII" target="_top">mr.machado@gmail.com</a> e senha "123"
 
 <hr/>
 
